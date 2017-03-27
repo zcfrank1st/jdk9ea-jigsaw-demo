@@ -1,4 +1,4 @@
-java9ea
+jdk9ea-jigsaw-demo
 =========
 
 
